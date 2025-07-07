@@ -1,0 +1,9 @@
+[
+    {
+        "cliente": "Alberto",
+        "direccion": "cll 100 c-sur #7-39, Bogota D.C, CP: 122341",
+        "descripcion": "Taladro percutor",
+        "estado": "Pendiente",
+        "precio": 25.0
+    }
+]
